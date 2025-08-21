@@ -37,11 +37,11 @@ Sistema completo de gestión de citas médicas que permite a los pacientes busca
 ## 📦 Estructura del proyecto
 
 medical-booking-platform/
-├── frontend/ # Aplicación React
-├── backend/ # API Spring Boot
-├── database/ # Scripts de base de datos
-├── docs/ # Documentación
-└── README.md
+- frontend/ # Aplicación React
+- backend/ # API Spring Boot
+- database/ # Scripts de base de datos
+- docs/ # Documentación
+- README.md
 
 ## 🚀 Instalación y ejecución
 
